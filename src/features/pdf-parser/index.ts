@@ -1,0 +1,6 @@
+export { PDFJSParser } from './parsers/PDFJSParser'
+export { AuthorExtractor } from './extractors/AuthorExtractor'
+export { AffiliationExtractor } from './extractors/AffiliationExtractor'
+export { GeminiExtractor } from './extractors/GeminiExtractor'
+export type { ParsedPDFData } from './parsers/PDFJSParser'
+export type { GeminiExtractionResult } from './extractors/GeminiExtractor'

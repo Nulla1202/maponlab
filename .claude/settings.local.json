@@ -1,0 +1,25 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdir:*)",
+      "Bash(tree:*)",
+      "Bash(npm install)",
+      "Bash(src/app/{map,papers} )",
+      "Bash(src/features/{upload,pdf-parser,geocoding,map,papers,search,auth}/{components,hooks} )",
+      "Bash(src/features/pdf-parser/{parsers,extractors} )",
+      "Bash(src/features/geocoding/{providers,cache} )",
+      "Bash(src/features/map/utils )",
+      "Bash(src/core/{storage,services,models} )",
+      "Bash(src/core/storage/{interfaces,providers,repositories} )",
+      "Bash(src/shared/{components,hooks,utils} )",
+      "Bash(src/shared/components/{Button,Modal,Loading} )",
+      "Bash(public/{icons,images,map-markers})",
+      "Bash(npm run type-check:*)",
+      "Bash(npm run build:*)",
+      "Bash(npm install:*)",
+      "Bash(npm uninstall:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
