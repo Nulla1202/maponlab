@@ -235,24 +235,12 @@ PaperMapは **完全無料** で運用可能です：
 
 ---
 
-## 📄 ライセンス
-
-このプロジェクトは [MIT License](LICENSE) のもとで公開されています。
-
----
-
 ## 📚 参考資料
 
 - [Next.js Documentation](https://nextjs.org/docs)
 - [Leaflet Documentation](https://leafletjs.com/)
 - [OpenStreetMap Nominatim](https://nominatim.org/)
 - [Clean Architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
-
----
-
-## 🙋 サポート
-
-質問や問題がある場合は、[GitHub Issues](https://github.com/yourusername/papermap/issues) を開いてください。
 
 ---
 
