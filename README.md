@@ -4,7 +4,6 @@
 
 PaperMapは、研究論文の著者所属機関を自動解析し、世界地図上に可視化するWebアプリケーションです。
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.x-blue.svg)](https://www.typescriptlang.org/)
 [![Next.js](https://img.shields.io/badge/Next.js-14.x-black.svg)](https://nextjs.org/)
 
